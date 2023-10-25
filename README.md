@@ -44,7 +44,12 @@ O Spring Boot é um projeto dentro do ecossistema Spring que tem como objetivo s
 
 ## Recursos Adicionais:
 [Documentação Oficial do Spring Boot](https://docs.spring.io)
+<br>
 [Spring Boot GitHub Repository](https://github.com/spring-projects/spring-boot)
+<br>
 [Spring Boot Guides](https://spring.io/guides/)
+<br>
 [Spring Boot Community](https://spring.io/community/)
+<br>
 [Spring Framework Reference (para conceitos mais amplos do Spring Framework)](https://docs.spring.io/spring-framework/reference/)
+
