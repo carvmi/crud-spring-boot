@@ -41,6 +41,9 @@ O Spring Boot é um projeto dentro do ecossistema Spring que tem como objetivo s
 - Aprenda sobre o Spring Data, Spring Security, Spring Cloud e outros projetos relacionados.
 ### 6. Documentação e Comunidade:
 - Consulte a documentação oficial do Spring Boot (https://spring.io/projects/spring-boot) e participe de comunidades online para obter suporte.
+  
+## N Tier Architecture 
+![image](https://github.com/carvmi/spring-boot/assets/105459743/a1275852-30e5-42f4-a91c-bcfbe820ed0d)
 
 ## Recursos Adicionais:
 [Documentação Oficial do Spring Boot](https://docs.spring.io)
