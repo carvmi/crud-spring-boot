@@ -1,0 +1,8 @@
+1.Postgres DB
+docker compose up -d
+docker compose ps
+docker logs postgres -f
+2. datasource configuration 
+docker exec -it postgres bash
+psql -U <username> 
+3. 
