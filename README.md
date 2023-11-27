@@ -50,6 +50,7 @@ O Spring Boot é um projeto dentro do ecossistema Spring que tem como objetivo s
   - Para criar registros, você define uma entidade (classe que representa a estrutura do dado) e um repositório (interface que estende JpaRepository) que fornece métodos para operações no banco de dados.
   - Use a anotação @Entity para mapear a classe como uma entidade JPA.
   - Utilize a anotação @Repository ou @Service para marcar a classe que interage com o banco de dados.
+  - Para criar novos registros, use a anotação @PostMapping.
   ### Read (Ler):
   - Para recuperar registros, use métodos fornecidos pelo JpaRepository.
   - Use a anotação @GetMapping para criar um endpoint que lê dados.
