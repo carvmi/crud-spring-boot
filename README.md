@@ -45,11 +45,6 @@ O Spring Boot é um projeto dentro do ecossistema Spring que tem como objetivo s
 ## N Tier Architecture 
 ![image](https://github.com/carvmi/spring-boot/assets/105459743/a1275852-30e5-42f4-a91c-bcfbe820ed0d)
 
-## Spring Data JPA 
-![image](https://github.com/carvmi/spring-boot/assets/105459743/c86d8969-5c6b-4717-b69e-5c3efa0503e7)
-![image](https://github.com/carvmi/spring-boot/assets/105459743/839a224b-bc8b-45ad-90cf-e401c7e9d97c)
-![image](https://github.com/carvmi/spring-boot/assets/105459743/5fc7d840-6f42-4edd-a3f8-aa91ca39be0f)
-
 ## Recursos Adicionais:
 [Documentação Oficial do Spring Boot](https://docs.spring.io)
 <br>
