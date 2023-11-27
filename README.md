@@ -45,6 +45,21 @@ O Spring Boot é um projeto dentro do ecossistema Spring que tem como objetivo s
 ## N Tier Architecture 
 ![image](https://github.com/carvmi/spring-boot/assets/105459743/a1275852-30e5-42f4-a91c-bcfbe820ed0d)
 
+## CRUD 
+  ### Create (Criar):
+  - Para criar registros, você define uma entidade (classe que representa a estrutura do dado) e um repositório (interface que estende JpaRepository) que fornece métodos para operações no banco de dados.
+  - Use a anotação @Entity para mapear a classe como uma entidade JPA.
+  - Utilize a anotação @Repository ou @Service para marcar a classe que interage com o banco de dados.
+  ### Read (Ler):
+  - Para recuperar registros, use métodos fornecidos pelo JpaRepository.
+  - Use a anotação @GetMapping para criar um endpoint que lê dados.
+ ###  Update (Atualizar):
+  - Para atualizar registros, use métodos do JpaRepository ou crie métodos personalizados no repositório.
+  - Use a anotação @PutMapping para criar um endpoint que atualiza dados.
+ ### Delete (Excluir):
+  - Para excluir registros, use métodos do JpaRepository ou crie métodos personalizados no repositório.
+  - Use a anotação @DeleteMapping para criar um endpoint que exclui dados.
+
 ## Recursos Adicionais:
 [Documentação Oficial do Spring Boot](https://docs.spring.io)
 <br>
